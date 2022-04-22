@@ -1,0 +1,17 @@
+Se embarca en hacer un pequeño diseño base de la franquicia StarBucks
+Diseño de patrones básicos para entendimiendo de su Diagrama Entidad-Relacion
+
+* Entidad   -> Rectangulos
+* Relacion  -> Rombos
+* Atributos -> Elipses
+* Vinculos  -> Lineas
+
+----
+
+- Se hace un acercamiento de los conceptos de cardinalidad.
+- También se recomienda como generar mentalmente el flujo de desarrollo
+- Concepto de uso de base de dato
+
+- Herramienta de muestra para visualización del diagrama
+Excalidraw
+https://excalidraw.com/#json=mbCbqF8DQxYzS27ydLpkW,CqJ1jhXvrau2rGurdpaw3w
